@@ -1,0 +1,25 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e469279c8c7731f4c842c4221e86011c, type: 3}
+  m_Name: Scene1
+  m_EditorClassIdentifier: 
+  nameStage: "CAP\xCDTOL 1:  ELS PRIMERS ANYS"
+  numScene: 1
+  video: {fileID: 32900000, guid: b7c4d898506b7854f90c110ae736167c, type: 3}
+  portadaVideo: {fileID: 0}
+  sceneGo: 000000000000000000000000
+  butttonNames:
+  - 1.1
+  - 1.2
+  - 1.3
+  maxButton: 3
+  TextScene: RAMON LLUL FA COSAS
